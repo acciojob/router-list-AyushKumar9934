@@ -3,7 +3,7 @@ import {Routes,Route,Link}from "react-router-dom"
 import ItemDetail from './ItemDetail'
 
 const ItemList = () => {
-    const items=[{Id:"1",desc:"Item1"},{Id:"2",desc:"Item2"},{Id:"3",desc:"Item3"},{Id:"4",desc:"Item4"}]
+    const items=[{Id:"1",desc:"Item 1"},{Id:"2",desc:"Item 2"},{Id:"3",desc:"Item 3"},{Id:"4",desc:"Item 4"}]
   return (
     <div><h1>Item List</h1>
     {<ul>
