@@ -5,7 +5,7 @@ import ItemDetail from './ItemDetail'
 const ItemList = () => {
     const items=[{Id:"1",desc:"Item1"},{Id:"2",desc:"Item2"},{Id:"3",desc:"Item3"},{Id:"4",desc:"Item4"}]
   return (
-    <div><h1>ItemList</h1>
+    <div><h1>Item List</h1>
     {<ul>
         
         
